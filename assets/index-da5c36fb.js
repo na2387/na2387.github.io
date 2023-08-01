@@ -230,7 +230,7 @@ PERFORMANCE OF THIS SOFTWARE.
   color: red;
 
   @media screen and (max-width: 766px) {
-    line-height: 25px;
+    line-height: 20px;
     font-size: 10px;
     padding-right: 5px;
   }
